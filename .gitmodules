@@ -1,0 +1,15 @@
+[submodule "france-electricity-conso"]
+	path = france-electricity-conso
+	url = git@github.com:SimonGaufreteau/france-electricity-conso.git
+[submodule "codev-user"]
+	path = codev-user
+	url = git@github.com:Aillerr/codev-user.git
+[submodule "codev-prod"]
+	path = codev-prod
+	url = git@github.com:Aillerr/codev-prod.git
+[submodule "codev-eco2mix"]
+	path = codev-eco2mix
+	url = git@github.com:Aillerr/codev-eco2mix.git
+[submodule "codev-temp"]
+	path = codev-temp
+	url = git@github.com:Aillerr/codev-temp.git
